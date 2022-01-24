@@ -1,5 +1,6 @@
 #Copyright @SwaritChoudhari [-:
-#I you want to use this, please credit me!
+#Sometimes even if usernames are valid, it will give you errors, to fix it, just do it again
+#If you want to use this, please credit me!
 
 #importing Stuff
 from asyncio import gather
